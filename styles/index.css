@@ -113,6 +113,7 @@ button  {
     padding-bottom: 15px;
     display: flex;
     justify-content: space-around;
+    /*No effect with align-items:baseline; */
     
 
 }
@@ -144,7 +145,7 @@ button  {
     display: flex;
     align-items: center;
     justify-content: center;
-
+/*tried using flex-grow property */
 
 
 
